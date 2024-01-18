@@ -1,0 +1,10 @@
+﻿ReferralSeverity,Charge Severity,Count of CaseNumber
+Missing,Missing,10957
+Missing,Misdemeanor,1054
+Missing,Misdemeanor,1146
+Felony,Missing,1
+Felony,Felony,5166
+Felony,Misdemeanor,319
+Misdemeanor,Missing,849
+Misdemeanor,Felony,108
+Misdemeanor,Misdemeanor,51022
