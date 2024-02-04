@@ -1,7 +1,7 @@
-﻿Disposition,Conviction,Dismissed, Acquittal,Missing,Not Prosecuted, Other Disposition
-2017,146,1,15,1,284,127
-2018,160,3,12,0,313,201
-2019,164,0,10,0,270,147
-2020,83,3,8,0,157,115
-2021,101,5,5,0,229,163
-2022,116,4,12,0,233,49
+﻿Disposition,Conviction,Dismissed, Acquittal,Not Prosecuted, Other Disposition
+2017,146,1,15,284,127
+2018,160,3,12,313,201
+2019,164,0,10,270,147
+2020,83,3,8,157,115
+2021,101,5,5,229,163
+2022,116,4,12,233,49
