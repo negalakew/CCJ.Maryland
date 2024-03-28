@@ -1,7 +1,7 @@
 ﻿State,Count
-Maryland,"45,440"
-Virginia,"2,273"
-District of Columbia,"2,117"
+Maryland,45440
+Virginia,2273
+District of Columbia,2117
 North Carolina,276
 Florida,114
 Pennsylvania,111
@@ -14,3 +14,4 @@ West Virginia,55
 California,45
 Delaware,43
 Others,270
+Total, 5110
