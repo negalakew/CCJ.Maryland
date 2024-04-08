@@ -1,0 +1,10 @@
+﻿Referral Severity,Charge Severity,Count of CourtCaseNumber
+Felony,Felony,8660
+Felony,Misdemeanor,803
+Misdemeanor,Misdemeanor,110997
+Misdemeanor,Felony,515
+Missing,Felony,1723
+Felony,Missing,728
+Missing,Misdemeanor,7378
+Misdemeanor,Missing,3052
+Missing,Missing,7071
