@@ -1,7 +1,8 @@
-Year,Count of Prosecutors,Count of Cases,Ratio of Cases to Prosecutor
-2017,100,1289,13
-2018,120,1653,14
-2019,108,1351,13
-2020,92,1227,13
-2021,90,1428,16
-2022,74,1455,20
+Year,Count of Prosecutors,Count of All Cases,Cases with no Prosecutor,Ratio of Cases to Prosecutor
+2017,99,1289,22,13
+2018,119,1653,16,14
+2019,107,1351,30,12
+2020,91,1227,88,13
+2021,89,1428,106,15
+2022,73,1455,155,18
+,,,,
