@@ -1,0 +1,52 @@
+Case Disposition,2017,2018,2019,2020,2021,2022,2023,2024,NULL,Grand Total
+ ,1,1,2,1,,1,,,5,11
+1 - NP - Drugs Not Analyzed,,,,1,,,,,,1
+1 - Plea - Guilty,38,104,123,26,,,,,55,346
+3 - FCC,2,3,24,9,20,474,7,,,539
+3 - FTA,,1,,,,1,,,,2
+3 - TRL,2,,6,,3,79,,,,90
+Abated by Death,1,1,,2,,6,1,1,3,15
+DCWL,,,,,,,,,2,2
+Dismissed,,,,,,2,2,,6,10
+Drug Court,,,,,1,2,1,,,4
+DTP - Screening - See notes,,,,,1,,,,1,2
+FTA,,,,,,2,,,,2
+Guilty,1,3,24,18,27,65,51,4,1583,1776
+JTP,,,,,,8,,,,8
+Judgment of Acquittal,,,,,,1,,,,1
+Judgment_Of_Acquittal,,,,,,1,,,,1
+Juvenile - Waived Back,,1,,,,,,,2,3
+MERGED WITH A RELATED CITATION,,,,,,1,,,,1
+NCR,,1,2,,,,,,,3
+NOLLE PROSEQUI,,,,,2,28,34,1,8,73
+Nolle_Prosequi,,,,,,10,6,3,4,23
+NOT GUILTY,,,,,,,3,1,1,5
+Not_Guilty,,,,,,2,2,,,4
+NP - Civilian FTA,2,4,10,5,22,19,9,,11,82
+NP - Officer FTA,,,,,1,1,,,3,5
+NP - Other (add note),11,8,35,31,33,16,2,1,63,200
+NP - Victim Request,,,,1,12,1,,,4,18
+NULL,4,10,31,31,33,31,6,1,3611,3758
+Plea,1,8,41,124,265,268,149,14,185,1055
+Plea - 1st Count,11,16,26,3,,,,,8,64
+Plea - Lessor Count - See notes,7,17,34,15,,,,,23,96
+Probation Before Judgment - Supervised,,,,,,1,,,,1
+Refer back for investigation,,,,,,,,,3,3
+Refer to Juvenile Court,,,,,,,,,1,1
+Remanded - Juvenile Court,,,,,,2,,,,2
+Stet,,,,,3,11,8,,7,29
+Stet - Diversion,,1,2,1,4,2,1,,1,12
+STET - Other (add note),1,,6,14,16,6,1,1,7,52
+STET - Per Plea,1,,,,,,,,,1
+STET - Restitution Paid,,,1,,,,,,,1
+STET - Vict/Wit Problems,,1,2,,,,,,,3
+To Be Indicted/FCC,,,,,,,,,1,1
+Transferred to another jurisdiction,,,,,,,,,1,1
+Trial - Bench - Not Guilty,,1,,,,,,,,1
+Trial - Guilty,1,11,11,5,6,3,6,1,9,53
+Trial - Jury - Guilty,,4,7,1,,,,,5,17
+Trial - Jury - JOA,,,,,,,,,1,1
+Trial - Jury - Not Guilty,,6,7,,,,,,4,17
+Trial - Marital Privledge,,,1,,,,,,,1
+Trial - NG,,,,2,4,1,2,,1,10
+Grand Total,84,202,395,290,453,1045,291,28,5619,8407
